@@ -34,12 +34,21 @@ def _registra(form):
         "km": _numero(form.get("km")),
         "notti": _intero(form.get("notti")),
     }
-    ok, motivazione = validator.valida(richiesta)
+    ok, motivazione = validator.valida(richiesta, richieste)
     if ok:
         gia_riconosciuta = storage.esente_riconosciuta_nel_mese(
             richieste, richiesta["dipendente"], storage.mese(richiesta)
         )
-        esente, imponibile, dettaglio = calculator.calcola(richiesta, gia_riconosciuta)
+        giornate_agile = (
+            storage.giornate_lavoro_agile_nel_mese(
+                richieste, richiesta["dipendente"], storage.mese(richiesta)
+            )
+            if richiesta["categoria"] == "lavoro_agile"
+            else 0
+        )
+        esente, imponibile, dettaglio = calculator.calcola(
+            richiesta, gia_riconosciuta, giornate_agile
+        )
         richiesta.update(
             stato="valida",
             motivazione="",
@@ -118,7 +127,12 @@ def riepilogo():
             "imponibile": dati["imponibile"],
             "richieste": dati["richieste"],
             "percentuale_plafond": min(
-                round(dati["esente"] / rules.PLAFOND_MENSILE * 100), 100
+                round(
+                    dati["esente"]
+                    / rules.regole_per_data(mese + "-01")["plafond_mensile"]
+                    * 100
+                ),
+                100,
             ),
         }
         for (mese, dipendente), dati in sorted(gruppi.items(), reverse=True)

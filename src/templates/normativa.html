@@ -14,7 +14,10 @@
   <tbody>
     {% for codice, massimale in rules.MASSIMALI_GIORNALIERI.items() %}
     <tr>
-      <td>{{ rules.CATEGORIE[codice] }}</td>
+      <td>{{ rules.CATEGORIE[codice] }}
+        {%- if codice == "lavoro_agile" %} <em>(max 12 gg/mese)</em>{% endif %}
+        {%- if codice == "trasferta_estero" %} <em>(riduzione progressiva oltre 5 gg)</em>{% endif %}
+      </td>
       <td class="num">{{ "%.2f"|format(massimale) }} € / giorno</td>
     </tr>
     {% endfor %}
@@ -41,5 +44,11 @@
     <li>La quota esente effettiva è limitata dalla capienza residua del plafond mensile del dipendente.</li>
     <li>La parte eccedente è quota imponibile e concorre alla formazione del reddito.</li>
   </ol>
+  <h3>Note (Circolare MEF n. 18/2026)</h3>
+  <ul>
+    <li><strong>Trasferta all'estero &gt; 5 giornate:</strong> dalla 6ª alla 10ª giornata il massimale è ridotto al 10% (76,50 €/gg); dall'11ª in poi al 20% (68,00 €/gg).</li>
+    <li><strong>Indennità lavoro agile:</strong> esente per un massimo di 12 giornate per mese di calendario; le giornate eccedenti sono interamente imponibili. Non cumulabile con indennità di trasferta nella stessa giornata.</li>
+    <li><strong>Regime transitorio:</strong> le spese con data di sostenimento fino al 31/12/2025 restano calcolate con i massimali della Circolare n. 41/2024 e il plafond di 1.200,00 €.</li>
+  </ul>
 </section>
 {% endblock %}

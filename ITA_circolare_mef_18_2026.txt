@@ -1,0 +1,189 @@
+Circolare MEF n. 18/2026 – Rimborsi spese per lavoro
+dipendente
+ Riferimento: art. 51, comma 5, TUIR; D.M. 28/01/2026; istruzioni operative del 09/02/2026 Codice:
+ MEF26-RSD-018 Versione: 1.2 Data: 16/02/2026 Decorrenza: 01/01/2026 Autore: Direzione
+ Legislazione Tributaria – Ufficio IV Note: sostituisce, per i periodi d'imposta dal 2026, la Circolare n.
+ 41/2024 (massimali 2025)
+Sommario
+     Principali novità della disciplina
+     Sezione 1 – Definizioni e ambito di applicazione
+     Sezione 2 – Massimali di esenzione aggiornati
+     Sezione 3 – Indennità per lavoro agile (home office)
+     Sezione 4 – Trasferte estere di durata superiore a 5 giorni
+     Sezione 5 – Regole di validazione e incompatibilità
+     Sezione 6 – Casi particolari ed esempi di calcolo
+     Sezione 7 – Decorrenza e regime transitorio
+
+Principali novità della disciplina
+Aggiornamento dei massimali giornalieri di esenzione: dall'anno 2026 sono rideterminati gli importi massimi
+giornalieri delle indennità e dei rimborsi che non concorrono alla formazione del reddito di lavoro
+dipendente, per tutte le categorie già disciplinate (trasferta nel territorio nazionale, trasferta all'estero,
+rimborso pasto, rimborso chilometrico, rimborso alloggio);
+Aggiornamento del plafond mensile complessivo: il limite mensile complessivo di esenzione per ciascun
+dipendente è elevato da 1.200,00 euro a 1.400,00 euro;
+Istituzione dell'indennità per lavoro agile: dall'anno 2026 è istituita una nuova categoria di rimborso,
+denominata indennità giornaliera per lavoro agile (home office), esente entro il limite giornaliero di 3,50 euro
+e per un massimo di 12 giornate per mese di calendario;
+Riduzione progressiva per trasferte estere prolungate: per le trasferte all'estero la cui durata complessiva
+superi le 5 giornate, il massimale giornaliero di esenzione è ridotto in misura progressiva a partire dalla sesta
+giornata, secondo la disciplina della Sezione 4;
+Incompatibilità tra lavoro agile e trasferta: l'indennità per lavoro agile non è cumulabile, nella stessa giornata
+e per il medesimo dipendente, con alcuna indennità di trasferta; la richiesta che violi tale condizione è
+respinta integralmente;
+Regime transitorio: le spese sostenute fino al 31/12/2025 restano assoggettate ai massimali e alle regole di
+calcolo previgenti (Circolare n. 41/2024), anche se la relativa richiesta di rimborso è presentata nel corso
+dell'anno 2026.
+Sezione 1 – Definizioni e ambito di applicazione
+Ai fini della presente circolare si intende per:
+      richiesta di rimborso: l'istanza presentata dal dipendente al datore di lavoro per ottenere il ristoro
+      di spese sostenute nell'esercizio dell'attività lavorativa, riferita a una singola categoria di spesa e a
+     una singola data di sostenimento (o, per le trasferte, a un periodo continuativo di giornate);
+     quota esente: la parte dell'importo richiesto che non concorre alla formazione del reddito di lavoro
+     dipendente ai sensi dell'art. 51, comma 5, TUIR;
+     quota imponibile: la parte dell'importo richiesto eccedente la quota esente, che concorre alla
+     formazione del reddito ed è assoggettata a ritenuta;
+     data di sostenimento: la data in cui la spesa è stata sostenuta dal dipendente; per le trasferte
+     pluri-giornaliere, la data di inizio della trasferta;
+     giornata di trasferta: ciascuna giornata, anche non lavorativa, compresa nel periodo di trasferta;
+     plafond mensile: il limite complessivo di quota esente riconoscibile a ciascun dipendente in un
+     mese di calendario, determinato sommando le quote esenti di tutte le richieste valide con data di
+     sostenimento nel mese.
+La presente circolare si applica alle categorie di rimborso indicate nella Sezione 2 e, dall'anno 2026, alla
+categoria istituita dalla Sezione 3. Le richieste che non rientrano in alcuna delle categorie disciplinate sono
+respinte in sede di validazione.
+L'ordine di imputazione al plafond mensile segue l'ordine cronologico della data di sostenimento; a parità di
+data, l'ordine di presentazione della richiesta.
+Sezione 2 – Massimali di esenzione aggiornati
+A decorrere dal 01/01/2026 i massimali giornalieri di esenzione sono rideterminati come segue. Si riportano,
+per confronto, i valori previgenti applicabili fino al 31/12/2025.
+             Categoria                  Massimale fino al 31/12/2025        Massimale dal 01/01/2026
+  Trasferta nel territorio nazionale    46,48 €/giorno                      50,00 €/giorno
+  Trasferta all'estero                  77,47 €/giorno                      85,00 €/giorno
+  Rimborso pasto                        8,00 €/giorno                       10,00 €/giorno
+  Rimborso chilometrico                 0,42 €/km                           0,45 €/km
+  Rimborso alloggio                     150,00 €/notte                      170,00 €/notte
+  Indennità lavoro agile                non prevista                        3,50 €/giorno
+  Plafond mensile complessivo           1.200,00 €/mese                     1.400,00 €/mese
+La quota esente di ciascuna richiesta è determinata come segue:
+   1. si determina il massimale teorico della richiesta:
+            per le trasferte (nazionale ed estero): massimale giornaliero × numero di giornate di
+            trasferta, fermo restando quanto previsto dalla Sezione 4 per le trasferte estere superiori a
+            5 giornate;
+            per il rimborso pasto e per l'indennità di lavoro agile: massimale giornaliero × numero di
+            giornate;
+            per il rimborso chilometrico: massimale per chilometro × chilometri percorsi;
+            per il rimborso alloggio: massimale per notte × numero di notti;
+   2. la quota esente teorica è pari al minore tra l'importo richiesto e il massimale teorico;
+   3. la quota esente effettiva è pari al minore tra la quota esente teorica e la capienza residua del
+      plafond mensile del dipendente alla data della richiesta;
+   4. la quota imponibile è pari alla differenza tra l'importo richiesto e la quota esente effettiva.
+Gli importi sono arrotondati al centesimo di euro (arrotondamento aritmetico).
+Controlli. Se l'importo richiesto è minore o uguale a zero, la richiesta è respinta con motivazione "importo
+non positivo". Se la categoria indicata non è tra quelle disciplinate, la richiesta è respinta con motivazione
+"categoria non riconosciuta".
+Sezione 3 – Indennità per lavoro agile (home office)
+È istituita, con decorrenza 01/01/2026, l'indennità giornaliera per lavoro agile, destinata a ristorare
+forfettariamente i costi sostenuti dal dipendente per lo svolgimento della prestazione lavorativa presso il
+proprio domicilio.
+Disciplina della categoria:
+       l'indennità è esente entro il limite di 3,50 euro per giornata di lavoro agile effettivamente svolta;
+       l'esenzione è riconosciuta per un massimo di 12 giornate per mese di calendario; le giornate
+       eccedenti la dodicesima non danno diritto ad alcuna quota esente e l'importo a esse riferito è
+       integralmente imponibile;
+       la richiesta deve indicare il numero di giornate di lavoro agile cui si riferisce; ai fini del computo del
+       limite mensile rilevano tutte le giornate già rimborsate nel medesimo mese di calendario con
+       richieste valide;
+       la quota esente concorre al plafond mensile complessivo di cui alla Sezione 2.
+Determinazione della quota esente:
+    1. si determina il numero di giornate ammesse: il minore tra le giornate richieste e la differenza, se
+       positiva, tra 12 e le giornate di lavoro agile già rimborsate nel mese;
+    2. il massimale teorico è pari a 3,50 euro × giornate ammesse;
+    3. si applicano i punti 2, 3 e 4 della Sezione 2.
+Esempio. Un dipendente ha già ottenuto nel mese il rimborso di 8 giornate di lavoro agile. Presenta una
+richiesta per ulteriori 6 giornate, importo richiesto 21,00 euro. Le giornate ammesse sono min(6; 12 − 8) = 4.
+Il massimale teorico è 3,50 × 4 = 14,00 euro. La quota esente teorica è min(21,00; 14,00) = 14,00 euro; la
+quota imponibile è 7,00 euro, ferma restando la capienza del plafond mensile.
+Controlli. Se il numero di giornate indicato è minore o uguale a zero, la richiesta è respinta con motivazione
+"numero di giornate non valido". Per l'incompatibilità con le indennità di trasferta si rinvia alla Sezione 5.
+Sezione 4 – Trasferte estere di durata superiore a 5 giorni
+Per le trasferte all'estero con data di inizio dal 01/01/2026 e durata complessiva superiore a 5 giornate, il
+massimale giornaliero di esenzione di cui alla Sezione 2 è ridotto in misura progressiva:
+       dalla prima alla quinta giornata: massimale pieno (85,00 euro);
+       dalla sesta alla decima giornata: massimale ridotto del 10 per cento (76,50 euro);
+       dall'undicesima giornata in poi: massimale ridotto del 20 per cento (68,00 euro).
+Il massimale teorico della trasferta è pari alla somma dei massimali giornalieri così determinati.
+Determinazione, per una trasferta estera di durata G giornate:
+    1. G1 = min(G; 5); quota piena = G1 × 85,00;
+    2. G2 = min(max(G − 5; 0); 5); quota ridotta al 10% = G2 × 76,50;
+    3. G3 = max(G − 10; 0); quota ridotta al 20% = G3 × 68,00;
+   4. massimale teorico = quota piena + quota ridotta al 10% + quota ridotta al 20%;
+   5. si applicano i punti 2, 3 e 4 della Sezione 2.
+Esempio. Trasferta estera di 12 giornate con inizio 09/03/2026, importo richiesto 1.100,00 euro. Massimale
+teorico = (5 × 85,00) + (5 × 76,50) + (2 × 68,00) = 425,00 + 382,50 + 136,00 = 943,50 euro. Quota esente
+teorica = min(1.100,00; 943,50) = 943,50 euro; quota imponibile = 156,50 euro, ferma restando la capienza
+del plafond mensile.
+La riduzione progressiva non si applica alle trasferte nel territorio nazionale, per le quali il massimale
+giornaliero resta costante per qualsiasi durata.
+Controlli. Se il numero di giornate della trasferta è minore o uguale a zero, la richiesta è respinta con
+motivazione "numero di giornate non valido".
+Sezione 5 – Regole di validazione e incompatibilità
+Restano ferme le regole di validazione previgenti:
+      importo richiesto strettamente positivo;
+      categoria compresa tra quelle disciplinate;
+      data di sostenimento presente e non successiva alla data di presentazione;
+      per le categorie a giornate (trasferte, pasto, lavoro agile): numero di giornate strettamente positivo;
+      per il rimborso chilometrico: numero di chilometri strettamente positivo.
+È introdotta, con decorrenza 01/01/2026, la seguente regola di incompatibilità:
+Incompatibilità lavoro agile / trasferta. L'indennità per lavoro agile non è cumulabile, per il medesimo
+dipendente e nella medesima giornata, con alcuna indennità di trasferta (nazionale o estera). In particolare:
+      una richiesta di indennità per lavoro agile è respinta se, per almeno una delle giornate cui si
+      riferisce, risulta già presente una richiesta valida di trasferta del medesimo dipendente che
+      comprenda tale giornata;
+      una richiesta di trasferta è respinta se, per almeno una delle giornate del periodo di trasferta, risulta
+      già presente una richiesta valida di indennità per lavoro agile del medesimo dipendente riferita a tale
+      giornata;
+      la richiesta respinta per incompatibilità lo è integralmente, anche se l'incompatibilità riguarda una
+      sola delle giornate; la motivazione del respingimento è "incompatibilità lavoro agile / trasferta";
+      ai fini del controllo rilevano soltanto le richieste valide; le richieste respinte non producono effetti di
+      incompatibilità.
+La verifica di incompatibilità è effettuata al momento della presentazione della richiesta, sulla base delle
+richieste già registrate.
+Sezione 6 – Casi particolari ed esempi di calcolo
+Caso 6.1 – Plafond mensile incapiente. Dipendente con quota esente già riconosciuta nel mese pari a
+1.350,00 euro. Presenta una richiesta di rimborso pasto per 5 giornate, importo 50,00 euro, nel 2026.
+Massimale teorico = 5 × 10,00 = 50,00; quota esente teorica = 50,00; capienza residua del plafond =
+1.400,00 − 1.350,00 = 50,00; quota esente effettiva = 50,00; quota imponibile = 0,00. Se la quota esente già
+riconosciuta fosse stata 1.380,00, la quota esente effettiva sarebbe stata 20,00 e la quota imponibile 30,00.
+Caso 6.2 – Trasferta estera a cavallo della soglia. Trasferta estera di 6 giornate nel 2026, importo
+richiesto 500,00 euro. Massimale teorico = (5 × 85,00) + (1 × 76,50) = 501,50. Quota esente = min(500,00;
+501,50) = 500,00; quota imponibile = 0,00.
+Caso 6.3 – Trasferta estera di 5 giornate esatte. La riduzione progressiva non si applica: massimale
+teorico = 5 × 85,00 = 425,00.
+Caso 6.4 – Lavoro agile oltre il limite mensile. Richiesta di 15 giornate di lavoro agile in un mese senza
+precedenti richieste, importo 52,50 euro. Giornate ammesse = min(15; 12) = 12; massimale teorico = 42,00;
+quota esente teorica = min(52,50; 42,00) = 42,00; quota imponibile = 10,50.
+Caso 6.5 – Incompatibilità su giornata singola. Dipendente con trasferta nazionale valida dal 02/03/2026
+al 06/03/2026. Presenta richiesta di lavoro agile per le giornate dal 06/03/2026 al 08/03/2026. La giornata
+del 06/03/2026 ricade nel periodo di trasferta: la richiesta di lavoro agile è respinta integralmente con
+motivazione "incompatibilità lavoro agile / trasferta".
+Caso 6.6 – Richiesta 2025 presentata nel 2026. Rimborso pasto per 3 giornate con data di sostenimento
+18/12/2025, presentato il 12/01/2026. Si applicano i massimali previgenti: massimale teorico = 3 × 8,00 =
+24,00 euro; il plafond mensile di riferimento è quello di dicembre 2025, pari a 1.200,00 euro. L'indennità per
+lavoro agile e la regola di incompatibilità della Sezione 5 non si applicano alle giornate del 2025.
+Caso 6.7 – Trasferta estera iniziata nel 2025 e conclusa nel 2026. La data di sostenimento è la data di
+inizio della trasferta: l'intera trasferta è assoggettata alla disciplina previgente (massimale costante 77,47
+€/giorno, senza riduzione progressiva).
+Sezione 7 – Decorrenza e regime transitorio
+Le disposizioni della presente circolare si applicano alle spese con data di sostenimento dal 01/01/2026.
+Regime transitorio:
+      le spese con data di sostenimento fino al 31/12/2025 restano assoggettate ai massimali e alle
+      regole di calcolo della Circolare n. 41/2024 (colonna "fino al 31/12/2025" della tabella in Sezione 2,
+      plafond mensile 1.200,00 euro), anche se la richiesta è presentata nel 2026;
+      la categoria "indennità lavoro agile" non è ammessa per giornate anteriori al 01/01/2026: le relative
+      richieste sono respinte con motivazione "categoria non riconosciuta";
+      la regola di incompatibilità di cui alla Sezione 5 e la riduzione progressiva di cui alla Sezione 4 si
+      applicano soltanto alle spese con data di sostenimento dal 01/01/2026;
+      il plafond mensile applicabile a ciascuna richiesta è quello vigente alla data di sostenimento
+      (1.200,00 euro per i mesi fino a dicembre 2025; 1.400,00 euro per i mesi da gennaio 2026).
+Le richieste già liquidate alla data di pubblicazione della presente circolare non sono oggetto di ricalcolo.
+
